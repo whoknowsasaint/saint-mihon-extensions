@@ -13,7 +13,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.en.mangaclouds",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/whoknowsasaint/saint-mihon-extensions/main/apk/tachiyomi-en.mangaclouds-v1.6.1.apk",
-          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/core/src/main/res/mipmap-xhdpi/ic_launcher.png"
+          "iconUrl": "https://raw.githubusercontent.com/whoknowsasaint/saint-mihon-extensions/main/iconurl.png"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -36,7 +36,7 @@
       "packageName": "eu.kanade.tachiyomi.extension.en.mangaclouds",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/whoknowsasaint/saint-mihon-extensions/main/apk/tachiyomi-en.mangaclouds-v1.6.1.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/core/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "iconUrl": "https://raw.githubusercontent.com/whoknowsasaint/saint-mihon-extensions/main/iconurl.png"
       },
       "extensionLib": "1.6",
       "versionCode": "106001",
